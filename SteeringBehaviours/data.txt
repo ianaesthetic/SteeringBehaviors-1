@@ -1,0 +1,58 @@
+#triangle
+6  3
+#round
+10
+#round 
+5
+#unit
+50 90
+0 -10  
+20
+40
+2
+0
+#unit
+50 10 
+0 10  
+20
+40
+2
+0
+#unit
+10 50
+10 0 
+20
+40
+2
+0
+#unit
+90 50
+-10 0
+20
+40
+2
+0
+#obstacle
+50 50
+0
+#obstacle 
+20 20 
+1
+#obstacle
+20 80
+1
+#obstacle
+80 20 
+1
+#obstacle 
+80 80
+1
+
+#state 
+0 wander
+#state 
+1 wander
+#state 
+2 wander
+#state 
+3 wander
